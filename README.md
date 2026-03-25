@@ -85,7 +85,7 @@ Modelo de efectos mixtos lineales generalizados (GLMM) con distribución Poisson
 ## 📁 Contenido del repositorio
 
 ```
-├── simulacion_RPC.R          # Estimación MCMC con JAGS + clásica con lme4
+├── bayesian_RPC_estimation.R # Estimación MCMC con JAGS + clásica con lme4
 ├── Att-Mis-Hit.dat           # Datos de la prueba de atención (228 estudiantes)
 ├── autocorrelacion.pdf       # Diagnóstico: gráficos de autocorrelación
 ├── cuantiles.pdf             # Diagnóstico: gráficos de cuantiles
